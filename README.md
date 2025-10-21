@@ -1,8 +1,6 @@
 ## Hi there, I'm Andriy 👋
 
-🧠 Currently looking for a job as a Data Analyst. 
-
-🧰 Tools I use: Python, Pandas, Numpy, Mathplotlib, Flask, Git.
+🧰 Tools I use: Python, Pandas, Numpy, Mathplotlib, Flask, Django, Git.
 <!--
 **vslnk1/vslnk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
