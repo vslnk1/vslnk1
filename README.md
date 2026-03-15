@@ -20,8 +20,6 @@ I build data-driven tools, web backends, and automation pipelines — focused on
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
-![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
-![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?logo=django)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
 ![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-D97757?logo=anthropic)
 ![Codex](https://img.shields.io/badge/OpenAI%20Codex-AI%20Coding-412991?logo=openai)
