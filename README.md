@@ -23,6 +23,10 @@ I build data-driven tools, web backends, and automation pipelines — focused on
 ![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
 ![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?logo=django)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
+![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-D97757?logo=anthropic)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-AI%20Coding-412991?logo=openai)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-Deployment-00C7B7?logo=netlify)
 
 ---
 
