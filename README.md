@@ -42,7 +42,6 @@ I build data-driven tools, web backends, and automation pipelines — focused on
 - Data analysis and visualization automation
 - Building lightweight REST APIs with Flask/Django
 - AI tooling and LLM-powered development workflows
-- Clean architecture patterns in Python projects
 
 ---
 
